@@ -1,0 +1,94 @@
+Crawl_MocapAnimPack - 59 animations + 24 inPlace (IPC) + 12 aimoffsets
+________________________________________
+________________________________________
+ 
+1) Crawl
+_________________
+
+Crawl_Idle01
+Crawl_Idle02
+Crawl_Idle03
+Crawl_Idle04
+Crawl_Idle05
+Crawl_Idle06
+
+Crawl_Walk_F
+Crawl_Walk_B
+Crawl_Walk_L
+Crawl_Walk_R
+Crawl_Walk_45L
+Crawl_Walk_45R
+Crawl_Walk_135L
+Crawl_Walk_135R
+
+Crawl_Start_Walk_F	Crawl_Start_Walk_45L
+Crawl_Stopt_Walk_F	Crawl_Stopt_Walk_45L
+Crawl_Start_Walk_B	Crawl_Start_Walk_45R
+Crawl_Stopt_Walk_B	Crawl_Stopt_Walk_45R
+Crawl_Start_Walk_L	Crawl_Start_Walk_135L
+Crawl_Stopt_Walk_L	Crawl_Stopt_Walk_135L
+Crawl_Start_Walk_R	Crawl_Start_Walk_135R
+Crawl_Stopt_Walk_R	Crawl_Stopt_Walk_135R
+
+Crawl_from_Act
+Crawl_to_Act
+
+Crawl_from_Cr
+Crawl_to_Cr
+
+Crawl_Hit_F
+Crawl_Hit_L
+Crawl_Hit_R
+
+Crawl_Death01
+Crawl_Death02
+
+
+2) Crawl_Pistol
+_________________
+
+Crawl_Pistol_Idle01
+Crawl_Pistol_Idle02
+
+Crawl_Pistol_Take
+Crawl_Pistol_Hide
+
+Crawl_Pistol_Aim_Idle
+Crawl_Pistol_to_Aim
+Crawl_Pistol_from_Aim
+
+Crawl_Pistol_Shoot_Light
+Crawl_Pistol_Shoot_Middle
+Crawl_Pistol_Shoot_Hard
+
+Crawl_Pistol_Aim_CC
+Crawl_Pistol_Aim_45U
+Crawl_Pistol_Aim_45R
+Crawl_Pistol_Aim_45RU
+Crawl_Pistol_Aim_45L
+Crawl_Pistol_Aim_45LU
+
+
+3) Crawl_Rifle
+_________________
+
+Crawl_Rifle_Idle01
+Crawl_Rifle_Idle02
+
+Crawl_Rifle_Take
+Crawl_Rifle_Hide
+
+Crawl_Rifle_Aim_Idle
+Crawl_Pistol_to_Aim
+Crawl_Pistol_from_Aim
+
+Crawl_Rifle_Shoot_Light
+Crawl_Rifle_Shoot_Middle
+Crawl_Rifle_Shoot_Hard
+
+Crawl_Rifle_Aim_CC
+Crawl_Rifle_Aim_45U
+Crawl_Rifle_Aim_45R
+Crawl_Rifle_Aim_45RU
+Crawl_Rifle_Aim_45L
+Crawl_Rifle_Aim_45LU
