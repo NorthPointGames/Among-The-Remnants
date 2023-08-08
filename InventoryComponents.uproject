@@ -3,17 +3,6 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "InventoryComponents",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine",
-				"AIModule"
-			]
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "MagicLeapMedia",
